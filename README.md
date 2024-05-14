@@ -3,9 +3,9 @@
 - **Project objective:** 
   1. Enhance the _[customer performance report] (https://github.com/burhan799/Excel-Sale-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ with more detailed insights into customer behavior and preferences.
   2. Improve the comparison between _[market performance and sales targets] (https://github.com/burhan799/Excel-Sale-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) _by including visualizations and trend analysis.
-  3. Created_[Market_Performance Reports by FISCAL year] _
-  4. Created _[Market_Performance Reports by Market] _
-  5. Created _[Market_Performance Reports by Months] _
+  3. Created_[Market_Performance Reports by FISCAL year] _https://github.com/burhan799/Excel-Sale-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ with Net sales,COGS,Gross Margin and GM%
+  4. Created _[Market_Performance Reports by Market] _(https://github.com/burhan799/Excel-Sale-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_ adding all the countries in which the organization is working
+  5. Created _[Market_Performance Reports by Months] _(https://github.com/burhan799/Excel-Sale-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 - **Purpose of sales analytics:** 
   - Emphasize how sales analytics can drive strategic decision-making and improve overall business performance.
