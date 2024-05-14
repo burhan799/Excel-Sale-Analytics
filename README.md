@@ -1,7 +1,7 @@
 ### Sales Report:
 
 - **Project objective:** 
-  1. Enhance the _[customer performance report]    _ with more detailed insights into customer behavior and preferences.
+  1. Enhance the _[customer performance report] (https://github.com/burhan799/Excel-Sale-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ with more detailed insights into customer behavior and preferences.
   2. Improve the comparison between _[market performance and sales targets]   _by including visualizations and trend analysis.
 
 - **Purpose of sales analytics:** 
